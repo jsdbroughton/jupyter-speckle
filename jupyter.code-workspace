@@ -1,0 +1,12 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "python.languageServer": "Pylance",
+    "notebook.editorOptionsCustomizations": {},
+    "discord.enabled": true
+  }
+}
